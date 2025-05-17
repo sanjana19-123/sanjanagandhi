@@ -22,6 +22,8 @@ sanjana-gandhi
 - [etl-testing-pipeline](https://github.com/yourusername/etl-testing-pipeline) - Data pipeline tests with SQL + Python
 
 ---
+📄 [Download My Resume](./Sanjana_Gandhi_Resume.pdf)
+
 
 ### 📫 Connect with me
 
