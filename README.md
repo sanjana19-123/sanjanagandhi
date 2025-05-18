@@ -47,17 +47,6 @@ ETL Tools : Apache Airflow, BigQuery, Kafka
 API Tools : Postman, ReadyAPI, SOAPUI
 CI/CD     : Jenkins, GitHub Actions, Azure DevOps
 Cloud     : AWS S3, GCP, Docker
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanagandhi&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanagandhi&layout=compact&theme=gruvbox" />
-</p>
-
 ---
 
 📫 **Contact Me**  
