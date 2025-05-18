@@ -39,6 +39,7 @@
 
 ---
 
+
 ## 🧰 Tech Stack
 ```bash
 Languages : Java, Python, SQL
@@ -47,6 +48,8 @@ ETL Tools : Apache Airflow, BigQuery, Kafka
 API Tools : Postman, ReadyAPI, SOAPUI
 CI/CD     : Jenkins, GitHub Actions, Azure DevOps
 Cloud     : AWS S3, GCP, Docker
+---
+📄 [Download My Resume](./Resumme.pdf)
 ---
 
 📫 **Contact Me**  
