@@ -67,4 +67,3 @@ Cloud     : AWS S3, GCP, Docker
 
 ---
 
-🌟 *“Quality is never an accident. It is always the result of intelligent effort.”* – John Ruskin
